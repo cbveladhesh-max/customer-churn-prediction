@@ -16,7 +16,9 @@ Telco Customer Churn dataset (Kaggle, ~7,000 customers)
 catching customers likely to churn matters more than avoiding false alarms.
 
 ## Key Churn Drivers
-- [fill in from your Step 5c feature importance chart]
+- TotalCharges
+- tenure
+- MonthlyCharges
 
 ## Tools
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
